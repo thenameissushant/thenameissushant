@@ -2,7 +2,7 @@
 <!-- ✨ Professional Animated Header for Sushant Jha -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines= Hey%2C+my+name+is+Sushant." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Hey%2C+my+name+is+Sushant." alt="Typing Animation" />
 </h1>
 
 
@@ -81,12 +81,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=00FF99&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights+📊;Crafting+Stories+from+Numbers+💡;Driven+by+Curiosity+and+Logic+⚙️" alt="Typing Animation" />
-</h3>
 
 ---
 
