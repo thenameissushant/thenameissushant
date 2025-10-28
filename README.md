@@ -1,12 +1,20 @@
 <!-- ⚡ Professional & Modern GitHub Profile for Sushant Jha -->
+<!-- ✨ Professional Animated Header for Sushant Jha -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Hi+I'm+Sushant+Jha+👋;Data+Analyst+%26+Tech+Explorer;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines= Hey%2C+my+name+is+Sushant." alt="Typing Animation" />
 </h1>
 
+
 <p align="center">
-  <img src="https://github.com/ThenameisSushant.png" width="120" style="border-radius:50%" alt="Profile Image" />
+  <i>Passionate about transforming numbers into meaningful stories through Power BI, SQL, Excel, and Python.</i>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF99&height=3&section=header"/>
+</p>
+
+
 
 ---
 
