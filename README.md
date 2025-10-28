@@ -1,40 +1,42 @@
-# 👋 Hi, I’m Sushant Jha
-**Aspiring Data Analyst** | Transforming data into clear business insights
+<!-- 🌟 Animated Pac-Man Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vRnoppYtfEbemBO/giphy.gif" width="180" alt="Pacman Animation">
+</p>
 
-![Typing](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+<!-- 👋 Typing Animation for Name -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=4000&color=00FF99&center=true&vCenter=true&width=500&lines=Hey+There!+👋;I'm+Sushant+Jha;Data+Analyst+📊;Power+BI+%7C+SQL+%7C+Python+%7C+Excel">
+</h1>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/thenameissushant)
-[![Email](https://img.shields.io/badge/Email-thenameissushant@gmail.com-cyan)](mailto:thenameissushant@gmail.com)
-
----
-
-## 🔎 About Me
-- MCA student with a strong interest in data analytics and visualization.  
-- Hands-on with **Power BI, Excel, SQL, Python (pandas, matplotlib)**.  
-- I turn raw data into clear visuals and actionable insights.
-
----
-
-## 🛠️ Tech & Tools
-`SQL` • `Power BI` • `Excel` • `Python (pandas)` • `Tableau` • `Git`
+<!-- 🚀 Rocket Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300">
+</p>
 
 ---
 
-## 📈 Key Highlights
-- Built dashboards that reduced reporting time by X% (replace X with your number).
-- Completed a course in Data Quality Analysis with Power BI (NASSCOM & Accenture).
+### ⚡ About Me  
+💡 **MCA Student** passionate about transforming raw data into actionable insights.  
+📊 Skilled in **Power BI, SQL, Excel, and Python (Pandas, Matplotlib)**.  
+🚀 Currently exploring **Data Visualization & Dashboard Development**.  
+🎯 Aim: To turn numbers into stories that drive smarter decisions.  
 
 ---
 
-## 📫 Connect
-- LinkedIn: https://linkedin.com/in/thenameissushant  
-- Email: thenameissushant@gmail.com
+### 🧠 Tech Stack & Tools  
+`SQL` • `Power BI` • `Excel` • `Python` • `Pandas` • `Matplotlib` • `Git` • `Data Visualization`
 
 ---
 
-## 📊 My GitHub Stats
-![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thenameissushant&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenameissushant&layout=compact&theme=dark)
+### 🏆 Achievements  
+✅ Completed **Data Quality Analysis with Power BI** (NASSCOM & Accenture)  
+✅ Created interactive **Power BI dashboards** for business analysis projects  
+✅ Built **Python EDA notebooks** for trend discovery and insights  
 
+---
 
+### 📂 Featured Projects  
+
+#### 📊 [Power BI Sales Dashboard](https://github.com/thenameissushant/powerbi-sales-dashboard)
+Interactive dashboard showing regional sales, KPIs, and customer segmentation.  
+![Dashboard Preview]()
